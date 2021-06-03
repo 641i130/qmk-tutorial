@@ -12,6 +12,8 @@ Something that can edit text, whether it be `vim`, `nano` or `vs code`, use some
 **A directory to put this stuff in:**
 I downloaded this in my home directory because it makes it easiest when working with it. (The guide assumes that you downloaded it in your home directory as well.)
 
+## Tutorial:
+
 ### A. Setting up the Dev Environment:
 
 1. Download the git-repo (make sure to have downloaded the packages above):
