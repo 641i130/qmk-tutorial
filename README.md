@@ -6,6 +6,11 @@ QMK tutorial using the Yampad as a base.
 **Packages you'll need (if ur missing anything lmk and i'll add to this):**
 `sudo pacman --noconfirm -S git python-pip libffi avr-binutils avr-gcc avr-libc avrdude` 
 
+**Groups you need to be part of:**
+`sudo usermod -a -G uucp [username]`
+`sudo usermod -a -G tty [username]`
+These will require a reboot to take effect.
+
 **A text editor:**
 Something that can edit text, whether it be `vim`, `nano` or `vs code`, use something that you're comfortable with
 
